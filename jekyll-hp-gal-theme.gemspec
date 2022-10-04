@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-hp-base-theme"
+  spec.name          = "jekyll-hp-gal-theme"
   spec.version       = "0.1.0"
-  spec.authors       = ["GBIF Secretariat"]
-  spec.email         = ["informatics@gbif.org"]
+  spec.authors       = ["GBIF Secretariat, Laura Rocha Prado"]
+  spec.email         = ["lauraprado@asu.edu"]
 
   spec.summary       = "Jekyll theme for research project websites"
   spec.homepage      = "https://github.com/gbif/jekyll-hp-base-theme"
